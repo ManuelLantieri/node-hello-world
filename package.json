@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "nodeprogram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelLantieri/node-hello-world.git"
+  },
+  "author": "Manuel Lantieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelLantieri/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/ManuelLantieri/node-hello-world#readme"
+}
